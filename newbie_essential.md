@@ -25,5 +25,7 @@
 ## Programming
 
 - [점프투파이썬](https://wikidocs.net/book/1)
+- [PyTorch Tutorial](https://pytorch.org/tutorials/)
+- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 
 ## Others (e.g. computer science)
